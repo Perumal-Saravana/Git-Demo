@@ -1,3 +1,1 @@
-function okay(){
-    
-}
+var b = 22;
